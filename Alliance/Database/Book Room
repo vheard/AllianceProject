@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS "BookRoom";
+CREATE TABLE "BookRoom" ("First_name" TEXT, "Last_name" TEXT, "Address" TEXT, "City" TEXT, "State" TEXT, "Country" TEXT, "Room_type" TEXT, "Smoking_allowed" TEXT, "Number_of_Beds" TEXT, "Check_In_Date" DATETIME, "Check_Out_Date" DATETIME, "Rate_per_night" DOUBLE);

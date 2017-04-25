@@ -1,0 +1,14 @@
+Any user who chooses to use our application will quickly find out that it is very easy to use. 
+We have provided the users with a simple, yet serviceable application that make the daily responsibilities of managing a hotel extremely straightforward.
+There are particular graphical user interfaces for each type of user, which will allow one to undertake proper tasks or requests. 
+The specific GUI viewed will be contingent upon how the user is stored in the database. 
+The manager must store the employee information in the department section as follows: a – admin, h – housekeepers, d – desk attendant. 
+A manager will log in and have three options of booking a room, managing employees, or viewing room service requests. 
+The main duty of the manager is to manage all employees
+Since they are a manager, they will also be able to assist desk attendants in booking a room or view and inform housekeepers of pending requests. 
+Hiring (adding) and firing (deleting) of employees can be done if the manager selects the manage employees option. 
+The manager can also edit an employee’s information in the case of their being some incorrect stored information or a change in position. 
+A desk attendant has to ability to book rooms by simply entering a guest’s general identification and payment information. The desk attendants also have the ability check the status of a guest’s room. 
+Housekeepers will use the application to view/update and pending requests. 
+Guests will have a separate module they log in to make room service requests (services, needs, foods, etc.). 
+They will submit their requests so that the housekeepers will be able to view them.
